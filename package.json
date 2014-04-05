@@ -24,4 +24,8 @@
     "type": "git",
     "url": "git://github.com/renemeza/nodejs-fixtures-loader.git"
   },
+  "keywords": [
+    "fixtures",
+    "loader"
+  ]
 }
