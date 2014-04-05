@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha -R spec -b --recursive"
   },
-  "author": "Rene Meza Vasquez (ramdemon7)",
+  "author": "renemeza",
   "license": "MIT",
   "devDependencies": {
     "chai": "~1.9.1"
@@ -19,5 +19,9 @@
     "q": "~1.0.1",
     "mime": "~1.2.11",
     "js-yaml": "~3.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/renemeza/nodejs-fixtures-loader.git"
+  },
 }
